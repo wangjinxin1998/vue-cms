@@ -1,0 +1,59 @@
+{
+    "message":[
+        {
+            "id":1,
+            "title":"小米(Mi)小米Note 16G双网通版",
+            "oldPrice":2399,
+            "newPrice":2199,
+            "kucun":60,
+            "img_url":["http://localhost:8080/src/images/goodslist/phone1.jpg",
+                "http://localhost:8080/src/images/goodslist/phone1.jpg",
+                "http://localhost:8080/src/images/goodslist/phone1.jpg"
+            ]
+        },
+        {
+            "id":2,
+            "title":"OPPO A15 16G双网通版",
+            "oldPrice":2399,
+            "newPrice":2199,
+            "kucun":70,
+            "img_url":["http://localhost:8080/src/images/goodslist/phone2.jpg",
+                "http://localhost:8080/src/images/goodslist/phone2.jpg",
+                "http://localhost:8080/src/images/goodslist/phone2.jpg"
+            ]
+        },
+        {
+            "id":3,
+            "title":"三星(SAMSUNG) galaxy s8 16G双网通版",
+            "oldPrice":2399,
+            "newPrice":2199,
+            "kucun":80,
+            "img_url":["http://localhost:8080/src/images/goodslist/phone3.jpg",
+                "http://localhost:8080/src/images/goodslist/phone3.jpg",
+                "http://localhost:8080/src/images/goodslist/phone3.jpg"
+            ]
+        },
+        {
+            "id":4,
+            "title":"VIVO NEX 16G双网通版",
+            "oldPrice":2399,
+            "newPrice":2199,
+            "kucun":90,
+            "img_url":["http://localhost:8080/src/images/goodslist/phone4.jpg",
+                "http://localhost:8080/src/images/goodslist/phone4.jpg",
+                "http://localhost:8080/src/images/goodslist/phone4.jpg"
+            ]
+        },
+        {
+            "id":5,
+            "title":"Iphone X 16G双网通版",
+            "oldPrice":2399,
+            "newPrice":2199,
+            "kucun":100,
+            "img_url":["http://localhost:8080/src/images/goodslist/phone5.jpg",
+                "http://localhost:8080/src/images/goodslist/phone5.jpg",
+                "http://localhost:8080/src/images/goodslist/phone5.jpg"
+            ]
+        }
+    ]
+}
